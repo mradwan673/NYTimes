@@ -30,7 +30,6 @@ Getting Started
 Usage
 
  - The app has two screens: a list of articles and a detail screen for each article.
- - To view the list of articles, tap the "Articles" button in the bottom navigation bar.
  - To view the details for an article, tap on the article in the list.
 
 Contact
