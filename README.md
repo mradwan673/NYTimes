@@ -4,8 +4,8 @@ NY Times Most Popular Articles App
 This app hits the NY Times Most Popular Articles API and shows a list of articles that shows details when items on the list are tapped (a typical master/detail app).
 The user is able to browse the articles and click on the list item to see the details. The app implements MVVM architecture using Hilt, Retrofit, Coroutines, Flows, and DataBinding.
 
-![home_screen](https://github.com/mradwan673/NYTimes/assets/32900633/12cfea55-b706-4846-8d41-4776177b3789)
-![details_screen](https://github.com/mradwan673/NYTimes/assets/32900633/007aaf1e-d46b-46b6-8145-8554f5225308)
+![home_screen](https://github.com/mradwan673/NYTimes/assets/32900633/12cfea55-b706-4846-8d41-4776177b3789). ![details_screen](https://github.com/mradwan673/NYTimes/assets/32900633/007aaf1e-d46b-46b6-8145-8554f5225308)
+
 
 Built With
 
