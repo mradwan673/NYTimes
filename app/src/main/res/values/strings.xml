@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NyTimes</string>
+    <string name="please_retry">Error occurred,Please retry</string>
+    <string name="retry">Retry</string>
+    <string name="article_image">Article Image</string>
+    <string name="popular_articles">Popular Articles</string>
+    <string name="publish_date_label">Publish Date :</string>
+    <string name="copyright_label">Copyright :</string>
+</resources>
